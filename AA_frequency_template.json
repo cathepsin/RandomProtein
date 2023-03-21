@@ -1,0 +1,25 @@
+{
+  "Amino Acid Distribution": {
+    "A": ,
+    "C": ,
+    "D": ,
+    "E": ,
+    "F": ,
+    "G": ,
+    "H": ,
+    "I": ,
+    "K": ,
+    "L": ,
+    "M": ,
+    "N": ,
+    "P": ,
+    "Q": ,
+    "R": ,
+    "S": ,
+    "T": ,
+    "V": ,
+    "W": ,
+    "Y":
+  },
+  "Reference": "Fill in the spaces above with your desired distribution. The COLAB program will normalize the values, so the values do not need to add to 100%."
+}
